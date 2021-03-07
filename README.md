@@ -275,3 +275,18 @@
 * React(Next.js)
 * Prisma
 * Docker
+
+# その他
+## 表彰など
+* [日立製作所主催Hack on Virtual](https://www.hitachi.co.jp/rd/open/kyosonomori/event/2021/event_0213.html)ハッカソンにて優秀賞獲得
+
+## 言語
+* 日本語：ネイティブ
+* 英語：ビジネスレベル（1年以上の海外在住経験と、多国籍チームでのPM経験）
+
+## 各種ID
+| サービス| URL|
+| ---| ---|
+| GitHub| [@HideBa](https://github.com/HideBa)|
+| Twitter| [ba_hideba](https://twitter.com/ba_hideba)|
+| Qiita| [@HideBa](https://qiita.com/HideBa) |
