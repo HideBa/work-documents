@@ -6,8 +6,8 @@
 * **プログラミング言語**
   * JavaScript/ TypeScript(React, Node.js): 習熟度高
   * Ruby (Rails): 習熟度中
-  * Python(Django): 習熟度中
-  * Go(echo): 習熟度中
+  * Python(Django/FastAPI): 習熟度中
+  * Go: 習熟度中
 * **DB**
   * PostgreSQL
   * MySQL
@@ -164,6 +164,34 @@
   * 各種スタイリング等
 * コードレビュー
 
+## [株式会社QuickWork](https://quickwork.jp/)(2021/03 - 2021/08 業務委託)
+
+### プロジェクト
+### 1. **[SalesNow](https://quickwork.jp/service/)(2021/03 - 2021/08)**
+概要：BtoB営業・マーケティング支援サービスの開発。営業先リストの作成や、企業検索などが可能。フロントエンド・バックエンドの開発に従事。
+
+**使用技術**
+  * React(Next.js)
+  * TypeScript
+  * Python
+  * FastAPI
+  * Docker
+  * PostgreSQL
+
+**業務内容**
+  * フロントエンド開発
+   * コンポーネント設計
+    * コンポーネント分割基準の作成とドキュメント作成
+    * スタイリングの方向性決定とドキュメント作成
+   * 機能開発
+    * 画像アップロード機能
+    * wysiwygエディタの実装
+    * ドラッグ＆ドロップによる要素の入れ替え機能
+    * 緩い型付けの修正
+  * バックエンド開発
+   * ユーザープロフィール取得のAPI開発
+   * サービス利用量取得のAPI開発
+   * エラー監視体制の整備
 
 # その他
 ## 表彰など
