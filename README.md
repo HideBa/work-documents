@@ -207,7 +207,7 @@
 | GitHub| [@HideBa](https://github.com/HideBa)|
 | Twitter| [ba_hideba](https://twitter.com/ba_hideba)|
 | Qiita| [@HideBa](https://qiita.com/HideBa) |
-
+| ブクログ| [@HideBa](https://booklog.jp/users/hideba) |
 
 ---
 ---
