@@ -28,7 +28,7 @@
 また、業務委託などの外注マネジメントや、7名中5名が外国籍の多国籍チーム（英語)でのマネジメント経験がある。
 
 ## 職務経歴
-## [株式会社Eukarya](https://eukarya.io/)(2019/09-12インターンシップ, 2020/01 - フルタイム)
+## [株式会社Eukarya](https://eukarya.io/)(2019/09-12インターンシップ, 2020/01 - フルタイム, 2021/01 - VPoE)
 
 ### プロジェクト
 ### 1. **[CO・OP PEACE MAP](https://coop.archiving.jp/)(2019/10 - 2020/01)**
@@ -117,6 +117,8 @@
   * 各種イベント・カンファレンス発表
     * [FOSS4G Japan](https://www.osgeo.jp/events/foss4g-2020/foss4g-2020-japan-online/foss4g-japan-2020-online-coreday#sponsor1)にてプレゼンテーション
     * [FOSS4G Korea](https://foss4g.osgeo.kr/track-english-01)にて英語でプレゼンテーション
+    * [FOSS4G Buenos Aires](https://callforpapers.2021.foss4g.org/foss4g2021/talk/HYFLDK/)にて英語でプレゼンテーション
+    * [FOSS4G Asia](https://www.foss4g-asia.org/2020/workshops-schedule/)にて英語でワークショップ
 * スクラムマスター(8人チームで5名外国籍で公用語は英語)
   * スプリントミーテイングの運営
     * プランニング
@@ -161,6 +163,23 @@
   * 目次表示
   * 各種スタイリング等
 * コードレビュー
+
+
+# その他
+## 表彰など
+* [日立製作所主催Hack on Virtual](https://www.hitachi.co.jp/rd/open/kyosonomori/event/2021/event_0213.html)ハッカソンにて優秀賞獲得
+
+## 言語
+* 日本語：ネイティブ
+* 英語：ビジネスレベル（1年以上の海外在住経験と、多国籍チームでのPM経験）
+
+## 各種ID
+| サービス| URL|
+| ---| ---|
+| GitHub| [@HideBa](https://github.com/HideBa)|
+| Twitter| [ba_hideba](https://twitter.com/ba_hideba)|
+| Qiita| [@HideBa](https://qiita.com/HideBa) |
+
 
 ---
 ---
@@ -286,18 +305,3 @@
 * React(Next.js)
 * Prisma
 * Docker
-
-# その他
-## 表彰など
-* [日立製作所主催Hack on Virtual](https://www.hitachi.co.jp/rd/open/kyosonomori/event/2021/event_0213.html)ハッカソンにて優秀賞獲得
-
-## 言語
-* 日本語：ネイティブ
-* 英語：ビジネスレベル（1年以上の海外在住経験と、多国籍チームでのPM経験）
-
-## 各種ID
-| サービス| URL|
-| ---| ---|
-| GitHub| [@HideBa](https://github.com/HideBa)|
-| Twitter| [ba_hideba](https://twitter.com/ba_hideba)|
-| Qiita| [@HideBa](https://qiita.com/HideBa) |
