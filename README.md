@@ -4,10 +4,10 @@
 業務では主に、自社開発プロジェクトにてバックエンド、フロントエンド開発及びインフラ周りのセットアップなどを担当。
 
 * **プログラミング言語**
+  * Go: 習熟度高
   * JavaScript/ TypeScript(React, Node.js): 習熟度高
   * Ruby (Rails): 習熟度中
   * Python(Django/FastAPI): 習熟度中
-  * Go: 習熟度中
 * **DB**
   * PostgreSQL
   * MySQL
